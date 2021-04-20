@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <LandingPage msg="Welcome to Your Vue.js App"/>
+    <LandingPage/>
   </div>
 </template>
 
@@ -12,7 +12,6 @@ import LandingPage from './components/LandingPage.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld,
     LandingPage,
   }
 }

@@ -29,4 +29,7 @@ li {
 a {
   color: #42b983;
 }
+.landingpage {
+    margin: 0 auto;
+}
 </style>
